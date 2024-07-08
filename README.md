@@ -30,7 +30,7 @@ Bu projeye başlamak için depoyu klonlamanız ve gerekli bağımlılıkları y�
 
    ```bash
    git clone https://github.com/beratcmn/nnfs.git
-   cd neural-networks-from-scratch
+   cd nnfs
    ```
 
 2. Bağımlılıkları yükleyin:
